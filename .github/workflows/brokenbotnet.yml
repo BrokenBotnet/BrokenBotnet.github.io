@@ -1,4 +1,4 @@
-name: Build gp-brokenbotnet
+name: Build brokenbotnet
 
 on:
   workflow_dispatch:
