@@ -1,0 +1,77 @@
+baseURL = "https://brokenbotnet.com"
+languageCode = "en-us"
+title = "Br🤖ken B🤖tnet"
+path = "/img/banner.png"
+subtitle = "InfoSec Blog by rE-Bo0t.bx1"
+theme = "cactus-theme"
+copyright = "Br🤖ken B🤖tnet && rE-Bo0t.bx1" # cactus will use title if copyright is not set
+# disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
+# googleAnalytics = "UA-1234-5"
+
+# summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "> $ cd /root/"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "> $ cd /whoami/"
+url = "/whoami"
+weight = 2
+
+[[menu.main]]
+name = "> $ cd /blog/"
+url = "/blog"
+weight = 3
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[params]
+
+  colortheme = "dark" # dark, light, white, or classic
+  rss = false # generate rss feed. default value is false
+  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
+  description = "Broken Botnet is an InfoSec blog by rE-Bo0t.bx1, Learn more about Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities."
+  keywords = "BrokenBotnet, Broken Botnet, InfoSec blog, rE-Bo0t.bx1, Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities"
+  images = ["/img/d40IrXsAts4h67u6.jpg"]
+  homeSubtitle = "InfoSec Blog by rE-Bo0t.bx1"
+
+  [author]
+  name = "rE-Bo0t.bx1"
+  # Home page settings
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = false
+  # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = false # default
+
+  [params.comments]
+    enabled = false # default
+    engine = "disqus" # more supported engines will be added.
+
+  [[params.social]]
+    name = "mastodon"
+    link = "https://cybre.space/@r3bo0tbx1"
+  [[params.social]]
+    name = "keybase"
+    link = "https://keybase.io/brokenbotnet/"
+  [[params.social]]
+    name = "linux"
+    link = "https://matrix.to/#/@r3bo0tbx1:cybre.space"
+  [[params.social]]
+    name = "twitter"
+    link = "https://twitter.com/r3bo0tbx1/"
