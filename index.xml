@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Br🤖ken B🤖tnet</title><link>https://brokenbotnet.com/</link><description>Recent content on Br🤖ken B🤖tnet</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Br🤖ken B🤖tnet &amp;&amp; rE-Bo0t.bx1</copyright><atom:link href="https://brokenbotnet.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https://brokenbotnet.com/blog/</link><pubDate>Sat, 19 Sep 2020 14:38:07 +0530</pubDate><guid>https://brokenbotnet.com/blog/</guid><description>Coming soon&amp;hellip;
-Br🤖ken B🤖tnet© Logo
-Credit ❤️ Aliester Crowley</description></item><item><title>Whoami</title><link>https://brokenbotnet.com/whoami/</link><pubDate>Sat, 19 Sep 2020 14:37:54 +0530</pubDate><guid>https://brokenbotnet.com/whoami/</guid><description>$ Whoami
-rE-Bo0t.bx1 aka r3bo0tbx1
-&amp;mdash;&amp;ndash;BEGIN WHOAMI&amp;mdash;&amp;ndash;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Br🤖ken B🤖tnet</title>
+    <link>https://brokenbotnet.com/</link>
+    <description>Recent content on Br🤖ken B🤖tnet</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://brokenbotnet.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://brokenbotnet.com/blog/</link>
+      <pubDate>Sat, 19 Sep 2020 14:38:07 +0000</pubDate>
+      
+      <guid>https://brokenbotnet.com/blog/</guid>
+      <description>Coming soon&amp;hellip;
+  Br🤖ken B🤖tnet© Logo
+Credit ❤️ Aliester Crowley</description>
+    </item>
+    
+    <item>
+      <title>Whoami</title>
+      <link>https://brokenbotnet.com/whoami/</link>
+      <pubDate>Sat, 19 Sep 2020 14:37:54 +0000</pubDate>
+      
+      <guid>https://brokenbotnet.com/whoami/</guid>
+      <description>&amp;mdash;&amp;ndash;BEGIN WHOAMI&amp;mdash;&amp;ndash;
 Version: v1.3.3.7
 This page is a good place to start if you want to learn a little more about me. First of all, welcome to Br🤖ken B🤖tnet. Here you will find InfoSec, Privacy, Hacking tricks, OSINT, Hacker news, CVE, Vulnerabilities. This blog will likely security concepts explained in an approachable manner, and much more.
-I am an independent security researcher, Linux, open source and privacy enthusiastic.</description></item></channel></rss>
+I am an independent security researcher, Linux, open source and privacy enthusiastic. I started my career as just a software developer.</description>
+    </item>
+    
+  </channel>
+</rss>

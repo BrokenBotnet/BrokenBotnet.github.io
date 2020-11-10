@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brokenbotnet.com/sitemap.xml
