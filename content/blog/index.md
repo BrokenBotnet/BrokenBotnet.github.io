@@ -7,7 +7,6 @@ cover:
     alt: "whoami rE-Bo0t.bx1 aka r3bo0tbx1 founder && author of InfoSec blog brokenbotnet.com Br🤖ken B🤖tnet"
     caption: "Br🤖ken B🤖tnet Logo"
 ---
-![rE-Bo0t.bx1](/img/banner.png)
 >*Coming soon...*
 ---
 `Br🤖ken B🤖tnet© Logo`
