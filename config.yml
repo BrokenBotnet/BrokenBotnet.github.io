@@ -1,0 +1,69 @@
+baseURL: 'https://brokenbotnet.com'
+title: Br🤖ken B🤖tnet
+paginate: 5
+theme: PaperMod
+subtitle: "InfoSec Blog by rE-Bo0t.bx1"
+path: "/img/banner.png"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Br🤖ken B🤖tnet
+  description: 'Broken Botnet is an InfoSec blog by rE-Bo0t.bx1, Learn more about Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities.'
+  author: rE-Bo0t.bx1
+  keywords : "BrokenBotnet, Broken Botnet, InfoSec blog, rE-Bo0t.bx1, Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities"
+  images : '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
+  homeSubtitle : "InfoSec Blog by rE-Bo0t.bx1"
+
+  images: '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: dark
+  disableThemeToggle : ture
+  disableSpecial1stPost : false
+
+  assets:
+    favicon: '/img/favicon.png'
+
+  label:
+    text: "Br🤖ken B🤖tnet"
+    icon: '/img/favicon.png'
+    iconHeight: 35
+
+  profileMode:
+
+        enabled: true
+        title: "rE-Bo0t.bx1"
+        imageUrl: "/img/rE-Bo0t.bx1.png"
+        imageTitle: "InfoSec Blog by rE-Bo0t.bx1"
+        imageWidth: 120
+        imageHeight: 120
+        buttons:
+        - name: "$ cd ~/whoami/"
+          url: "/whoami/"
+        - name: "$ cd ~/blog/"
+          url: "/blog/"
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/r3bo0tbx1'
+    - name: github
+      url: 'https://github.com/r3bo0tbx1'
+    - name: matrix
+      url: 'https://matrix.to/#/@r3bo0tbx1:cybre.space'
+    - name: mastodon
+      url: 'https://cybre.space/@r3bo0tbx1'
+    - name: keybase
+      url: 'https://keybase.io/brokenbotnet'
+    - name: pgp
+      url: 'https://keyserver.ubuntu.com/pks/lookup?search=0xFF9CB6BB8A0BDB20&fingerprint=on&op=index'

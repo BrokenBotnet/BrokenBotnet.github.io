@@ -1,13 +1,12 @@
 ---
 title: "Whoami"
-date: 2020-09-19T14:37:54+05:30
-draft: true
+date: 2020-09-19T14:37:54+00:00
+draft: false
+cover:
+    image: "/img/rE-Bo0t.bx1.png"
+    alt: "whoami rE-Bo0t.bx1 aka r3bo0tbx1 founder && author of InfoSec blog brokenbotnet.com"
+    caption: "[rE-Bo0t.bx1 aka r3bo0tbx1]"
 ---
-
-$ Whoami
-
-![rE-Bo0t.bx1](/img/rE-Bo0t.bx1.png)
->rE-Bo0t.bx1 aka r3bo0tbx1
 ---
 -----BEGIN WHOAMI-----
 
@@ -27,7 +26,7 @@ Code, Read, Eat, Sleep && Repeat. Also, in my spare time to participate in bug b
 freelance security research & practice RE and WAS. I play CTFs very often.
 
 I'll be writing here to share some knowledge. You can also ask me to write about
-anything you want to know, just mail me to `brokenbotnet[at]tuta.io`
-Please encrypt 🔒 [FF9C B6BB 8A0B DB20](https://keybase.io/brokenbotnet/pgp_keys.asc?fingerprint=943bfb00331a17bd4fa56cfdff9cb6bb8a0bdb20) 🔑
+anything you want to know, just mail me to `brokenbotnet[at]tuta.io` must encrypt 🔒 or I will Ignore the email!
+PGP🔑 [0xFF9CB6BB8A0BDB20](https://keyserver.ubuntu.com/pks/lookup?search=0xFF9CB6BB8A0BDB20&fingerprint=on&op=index)
 
 -----END WHOAMI-----
