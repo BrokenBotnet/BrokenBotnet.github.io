@@ -8,4 +8,4 @@ draft: true
 ---
 `Br🤖ken B🤖tnet© Logo`
 
-Credit ❤️ **[Aliester Crowley](https://www.youtube.com/AliesterCrowley)**
+Credit ❤️ **[Aliester Crowley](https://www.youtube.com/AliesterCrowley?sub_confirmation=1)**
