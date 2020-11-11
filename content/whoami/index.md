@@ -25,8 +25,7 @@ penetration testing and security research. My day activities are deep diving int
 Code, Read, Eat, Sleep && Repeat. Also, in my spare time to participate in bug bounties and perform
 freelance security research & practice RE and WAS. I play CTFs very often.
 
-I'll be writing here to share some knowledge. You can also ask me to write about
-anything you want to know, just mail me to `brokenbotnet[at]tuta.io` must encrypt 🔒 or I will Ignore the email!
+I'll be writing here to share some knowledge. You can also ask me to write about anything you want to know, mail me to `brokenbotnet[at]tuta.io`, all emails must be encrypted 📧🔒 or I will ignore the email!
 PGP🔑 [0xFF9CB6BB8A0BDB20](https://keyserver.ubuntu.com/pks/lookup?search=0xFF9CB6BB8A0BDB20&fingerprint=on&op=index)
 
 -----END WHOAMI-----
