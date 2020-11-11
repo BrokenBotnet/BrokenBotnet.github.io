@@ -9,7 +9,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -20,10 +19,8 @@ params:
   description: 'Broken Botnet is an InfoSec blog by rE-Bo0t.bx1, Learn more about Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities.'
   author: rE-Bo0t.bx1
   keywords : "BrokenBotnet, Broken Botnet, InfoSec blog, rE-Bo0t.bx1, Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities"
-  images : '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
+  images : 'https://brokenbotnet.com/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
   homeSubtitle : "InfoSec Blog by rE-Bo0t.bx1"
-
-  images: '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -59,6 +56,8 @@ params:
       url: 'https://twitter.com/r3bo0tbx1'
     - name: github
       url: 'https://github.com/r3bo0tbx1'
+    - name: buymeacoffee
+      url: 'https://buymeacoff.ee/r3bo0tbx1'
     - name: matrix
       url: 'https://matrix.to/#/@r3bo0tbx1:cybre.space'
     - name: mastodon
