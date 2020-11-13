@@ -3,6 +3,7 @@ title: Br🤖ken B🤖tnet
 paginate: 5
 theme: PaperMod
 subtitle: "InfoSec Blog by rE-Bo0t.bx1"
+images: '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -18,7 +19,6 @@ params:
   description: 'Broken Botnet is an InfoSec blog by rE-Bo0t.bx1, Learn more about Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities.'
   author: rE-Bo0t.bx1
   keywords : "BrokenBotnet, Broken Botnet, InfoSec blog, rE-Bo0t.bx1, Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities"
-  image : '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
   homeSubtitle : "InfoSec Blog by rE-Bo0t.bx1"
 
   ShowReadingTime: true
