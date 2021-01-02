@@ -17,7 +17,6 @@ params:
   title: Br🤖ken B🤖tnet
   description: 'Broken Botnet is an InfoSec blog by rE-Bo0t.bx1, Learn more about Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities.'
   author: rE-Bo0t.bx1
-  images: '/img/2eb4f752e958d555a797f7f6fe00a1c7.jpg'
   keywords : "BrokenBotnet, Broken Botnet, InfoSec blog, rE-Bo0t.bx1, Security, Privacy, Hacking tricks, InfoSec, OSINT, Hacker news, CVE, Vulnerabilities"
   homeSubtitle : "InfoSec Blog by rE-Bo0t.bx1"
 
@@ -47,8 +46,6 @@ params:
         buttons:
         - name: "$ cd ~/whoami/"
           url: "/whoami/"
-        - name: "$ cd ~/blog/"
-          url: "/blog/"
 
   socialIcons:
     - name: twitter
@@ -64,4 +61,4 @@ params:
     - name: keybase
       url: 'https://keybase.io/brokenbotnet'
     - name: pgp
-      url: 'https://keyserver.ubuntu.com/pks/lookup?search=0xFF9CB6BB8A0BDB20&fingerprint=on&op=index'
+      url: 'https://keyserver.ubuntu.com/pks/lookup?search=0xB3BD6196E1CFBFB4&fingerprint=on&op=index'
