@@ -29,11 +29,18 @@ I am an independent security researcher, Linux, open source and privacy enthusia
 
 > I did not revoke my old PGP key [`0xFF9CB6BB8A0BDB20`](https://keyserver.ubuntu.com/pks/lookup?search=0xFF9CB6BB8A0BDB20&fingerprint=on&op=index) 🔑 you can still contact me via that email `brokenbotnet@tuta.io` 📧 but, I prefer the key (`0xB3BD6196E1CFBFB4 🔑`) and the email(s) associated with it.
 
-**If you want to  by me me coffee ☕ or pizza 🍕, yeah sure go ahead... You are awesome!** ❤️😃
+**If you want to  by me a coffee ☕ or pizza 🍕, yeah sure go ahead... You are awesome!** ❤️😃
 
-* BTC: `bc1qmwtuf4ywg7xffyafp4k6lz5ltvq6dccwulge0l`
-* Zcash: `zs1ghxsvnvzxe5jk8x9f9rgew8j5dcrg6dufamyr7w4kfj28wxlvvhnl2vpkx3r5p4pzukduayccah`
-* XMR: `44m2nQ1QfxZAyZ8YdcasN9gDCaJvozhRuGQFA3iydBoHbiCXhxvgZ2R4VMwqPgZ4DYTAuW7bTYmiFQBd1axghzERRHAcVJS`
+```
+Bitcoin
+Address: bc1qmwtuf4ywg7xffyafp4k6lz5ltvq6dccwulge0l
+
+Zcash
+Address: zs1ghxsvnvzxe5jk8x9f9rgew8j5dcrg6dufamyr7w4kfj28wxlvvhnl2vpkx3r5p4pzukduayccah
+
+Monero
+Address: 44m2nQ1QfxZAyZ8YdcasN9gDCaJvozhRuGQFA3iydBoHbiCXhxvgZ2R4VMwqPgZ4DYTAuW7bTYmiFQBd1axghzERRHAcVJS
+```
 
 ---
 
