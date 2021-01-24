@@ -10,8 +10,13 @@ weight: 1
 aliases: ["/Whoami"]
 tags: ["Whoami","r3bo0tbx1","BrokenBotnet"]
 author: "r3bo0tbx1"
+hidemeta: true
+comments: false
+disableShare: trye
+disableHLJS: true
 ---
 ---
+
 -----BEGIN WHOAMI-----
 
 Version: v1.3.3.7
@@ -46,7 +51,7 @@ Address: 44m2nQ1QfxZAyZ8YdcasN9gDCaJvozhRuGQFA3iydBoHbiCXhxvgZ2R4VMwqPgZ4DYTAuW7
 
 Credit ❤️ [`Aliester Crowley`](https://www.youtube.com/AliesterCrowley)
 `Br🤖ken B🤖tnet© Logo`
-![Br🤖ken B🤖tnet© Logo](/img/banner.png)
+![Br🤖ken B🤖tnet© Logo](/img/banner.png#center)
 
 ---
 
