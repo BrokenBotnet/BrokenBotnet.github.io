@@ -38,7 +38,7 @@ I am an independent security researcher, Linux, open source and privacy enthusia
 
 ```
 Bitcoin
-Address: bc1qmwtuf4ywg7xffyafp4k6lz5ltvq6dccwulge0l
+Address: 3NLMBsq2LSdKEJHjeVwNyZ5HJa9tsnaSYB
 
 Zcash
 Address: zs1ghxsvnvzxe5jk8x9f9rgew8j5dcrg6dufamyr7w4kfj28wxlvvhnl2vpkx3r5p4pzukduayccah
